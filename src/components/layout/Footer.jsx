@@ -79,11 +79,11 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <SafeIcon icon={FiMail} className="w-5 h-5 text-primary-400" />
-                <span className="text-gray-300">hello@webryn.com</span>
+                <span className="text-gray-300">webryntech@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <SafeIcon icon={FiPhone} className="w-5 h-5 text-primary-400" />
-                <span className="text-gray-300">+1 (555) 123-4567</span>
+                <span className="text-gray-300">+91 98634 14535</span>
               </div>
               <div className="flex items-center space-x-3">
                 <SafeIcon icon={FiMapPin} className="w-5 h-5 text-primary-400" />
